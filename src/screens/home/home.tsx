@@ -1,8 +1,8 @@
 import React from "react";
-import logo from "../assets/logo.svg";
-import "./App.scss";
+import logo from "../../assets/logo.svg";
+import "./home.styles.scss";
 
-export const App: React.FC = () => {
+export const Home: React.FC = () => {
   return (
     <div className="App">
       <header className="App-header">
